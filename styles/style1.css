@@ -54,6 +54,9 @@ font-family: "Brush Script MT", cursive;
 ul#branded_nav{
   list-style-type: none;
 }
+ul#branded_nav li{
+  padding: 20px;
+}
 .brands{
   padding: 20px 0px 20px 0px;
   background-color:#D8D8D8;
@@ -128,8 +131,8 @@ img {
 padding:0px 120px 20px 120px;
 }
 
-.example a:hover {
-color: #BC2328;
+.bottom-margin{
+    margin-bottom: 20px;
 }
 
 /* carousel */
